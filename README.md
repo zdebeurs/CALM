@@ -5,5 +5,5 @@
 
 ###### Image created by Zoe L. de Beurs. Inspired by images from 
 
-[Kahovsky](https://www.google.com](https://www.vectorstock.com/royalty-free-vectors/vectors-by_kahovsky)
+[Kahovsky](https://www.vectorstock.com/royalty-free-vectors/vectors-by_kahovsky)
 
