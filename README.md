@@ -3,7 +3,5 @@
 
 <img src="final_calm_lil_star_V2.png" alt="CALM_Logo" width="350"/>
 
-###### Image created by Zoe L. de Beurs. Inspired by images from 
-
-[Kahovsky](https://www.vectorstock.com/royalty-free-vectors/vectors-by_kahovsky)
+###### Image created by Zoe L. de Beurs. Inspired by images from [Kahovsky](https://www.vectorstock.com/royalty-free-vectors/vectors-by_kahovsky)
 
